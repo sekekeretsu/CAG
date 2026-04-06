@@ -4,7 +4,7 @@ Core Attachment approach with incorporation of Gene Expression Profile
 
 Please read the readme.txt file for more informations
 
-Reference: 
+**Reference: **
 
 Keretsu, S., & Sarmah, R. (2016). Weighted edge based clustering to
 identify protein complexes in protein–protein interaction networks
